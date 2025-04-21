@@ -1,1 +1,1 @@
-# C++で使えるツール、拡張機能など
+# I made Extantion for C++ lang
