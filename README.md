@@ -1,1 +1,1 @@
-# I made Extantion for C++ lang
+# C++の拡張を出来次第追加していきます
